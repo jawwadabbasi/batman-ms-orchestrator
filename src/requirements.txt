@@ -1,0 +1,5 @@
+Flask==3.0.3
+pymysql==1.1.1
+mysql-connector-python==9.0.0
+requests==2.32.3
+sentry-sdk[flask]==2.13.0

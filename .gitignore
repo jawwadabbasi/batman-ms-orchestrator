@@ -1,0 +1,18 @@
+# Ignore the following files from being
+# pushed to Git
+.DS_Store
+src/.DS_Store
+src/settings.py
+src/test.py
+
+# Ignore contents from the following directories
+# from being pushed to Git
+src/__pycache__/
+src/includes/__pycache__/
+src/services/__pycache__/
+src/v1/__pycache__/
+src/v2/__pycache__/
+
+.idea
+local
+Makefile
